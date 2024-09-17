@@ -24,7 +24,7 @@ For users who prefer to run models locally, this version also supports Ollama, e
 
 ## How it works
 
-g1 creates reasoning chains, in principle a dynamic Chain of Thought, that allows the LLM to "think" and solve some logical problems that usually otherwise stump leading models.
+o1 creates reasoning chains, in principle a dynamic Chain of Thought, that allows the LLM to "think" and solve some logical problems that usually otherwise stump leading models.
 
 At each step, the LLM can choose to continue to another reasoning step, or provide a final answer. Each step is titled and visible to the user. The system prompt also includes tips for the LLM. There is a full explanation under Prompt Breakdown, but a few examples are asking the model to "include exploration of alternative answers" and "use at least 3 methods to derive the answer".
 
@@ -33,7 +33,7 @@ The reasoning ability of the LLM is therefore improved through combining Chain-o
 ## Examples
 
 > [!IMPORTANT]
-> g1 is not perfect, but it can perform significantly better than LLMs out-of-the-box. From initial testing, g1 accurately solves simple logic problems 60-80% of the time that usually stump LLMs. However, accuracy has yet to be formally evaluated. See examples below.
+> o1 is not perfect, but it can perform significantly better than LLMs out-of-the-box. From initial testing, o1 accurately solves simple logic problems 60-80% of the time that usually stump LLMs. However, accuracy has yet to be formally evaluated. See examples below.
 
 [Examples section remains unchanged]
 
@@ -76,4 +76,4 @@ streamlit run app_ollama.py
 
 ## Credits
 
-This app was originally developed by [Benjamin Klieger](https://x.com/benjaminklieger) and has been extended by the open-source community to support multiple LLM backends.
+This app was originally developed by [Benjamin Klieger](https://x.com/benjaminklieger) and has been extended by the open-source community to support multiple LLM backends.g1
