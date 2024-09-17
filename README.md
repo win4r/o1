@@ -67,6 +67,11 @@ pip3 install -r requirements.txt
 streamlit run app_ollama.py
 ```
 
+### 👉👉👉如有问题请联系我的徽信 stoeng
+### 👉👉👉我的哔哩哔哩频道 https://space.bilibili.com/3493277319825652
+### 👉👉👉我的YouTube频道 https://www.youtube.com/@AIsuperdomain
+
+
 ## Prompting Strategy
 
 [Prompting Strategy section remains unchanged]
