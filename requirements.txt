@@ -1,0 +1,5 @@
+streamlit
+groq
+python-dotenv
+requests
+blessed
