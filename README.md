@@ -1,4 +1,4 @@
-# [🚀Watch my videos on Bilibili](https://space.bilibili.com/3493277319825652)
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
 
 # o1: Using LLMs to create o1-like reasoning chains
 
