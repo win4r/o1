@@ -1,3 +1,5 @@
+[Bilibili profile](https://space.bilibili.com/3493277319825652)
+
 # o1: Using LLMs to create o1-like reasoning chains
 
 [Video Demo](https://github.com/user-attachments/assets/db2a221f-f8eb-48c3-b5a7-8399c6300243)
